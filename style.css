@@ -1,0 +1,138 @@
+.bodyframe{
+   font-size: 35px;
+   margin: 1.5em;
+   font-family: 'Yeseva One', cursive , sans-serif;
+   background-color:grey
+
+ 
+  
+}
+
+
+header{
+   background-color:  hsl(240, 43%, 97%);
+   text-decoration: rgb(22, 24, 187);
+   font-size: 55px;
+   margin: 0;
+   font-family: 'Fira Code', monospace;
+   font-family: 'Yeseva One', cursive;
+   padding-top: 0;
+   padding-bottom: 0%;
+   padding-left: 2%;
+
+}
+.image1{
+width: 100%;
+padding: 0;
+height: 20em;
+margin-top: 0;
+margin-left: 0em;
+position: flex;
+background-color:  hsl(240, 97%, 75%);
+
+}
+.pagetitle{
+
+margin-left: 2em;
+
+
+
+}
+
+.team{
+
+margin-left: 35%;
+
+width: 100%;
+position: flex;
+}
+
+
+
+
+.over{
+
+margin-left: 40%;
+
+}
+
+.goal{
+
+   margin-left: 35%;
+}
+
+
+.objective{
+  
+
+
+
+}
+.box1{
+   
+
+}
+
+.box2{
+   
+
+
+}
+
+.box3{
+background-color: aqua;
+
+}
+.keyimages{
+margin-left: 15%;
+
+display: flex block;
+
+}
+
+.box4{
+
+   margin-left: 15%;
+   margin-right: 48%;
+
+   background-color:  hsl(240, 43%, 97%);
+
+}
+.box6{
+position: flex;
+   margin-left: 50%;
+   margin-right: 20%;
+
+   background-color:  hsl(240, 43%, 97%);
+
+}
+ul{
+
+   background-color:  hsl(240, 43%, 97%);
+
+
+}
+.box7{
+   position: flex;
+      
+   
+      background-color:  hsla(63, 93%, 48%, 0.966);
+   
+   }
+   .box7{
+
+      background-color:  hsla(63, 93%, 48%, 0.966);
+
+
+
+   }
+
+.box9{
+
+   background-color:  hsla(63, 93%, 48%, 0.966);
+
+
+
+}
+
+
